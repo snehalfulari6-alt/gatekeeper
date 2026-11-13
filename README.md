@@ -60,6 +60,4 @@ GateKeeper consists of three microservices:
 
 To build an industry-oriented backend project and gain practical experience in Spring Boot, Microservices, API Gateway design, and distributed systems.
 
----
 
-**Project Status:** 🚧 Under Development
